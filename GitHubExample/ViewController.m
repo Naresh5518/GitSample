@@ -20,7 +20,7 @@
 }
 -(void)printSumOfNumbers{
     int a=109,b=120;
-    NSLog(@"Sum Of Numbers Is %d",a+b);
+    NSLog(@"total Sum Of Numbers Is %d ",a+b);
 }
 
 @end
